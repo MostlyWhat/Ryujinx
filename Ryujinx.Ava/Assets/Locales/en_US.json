@@ -544,4 +544,11 @@
   "LoadingHeading": "Loading {0}",
   "CompilingPPTC": "Compiling PTC",
   "CompilingShaders": "Compiling Shaders"
+  "SettingsTabHotkeys": "Keyboard Hotkeys",
+  "SettingsTabHotkeysHotkeys": "Keyboard Hotkeys",
+  "SettingsTabHotkeysToggleVsyncHotkey": "Toggle VSync:",
+  "SettingsTabHotkeysScreenshotHotkey": "Screenshot:",
+  "SettingsTabHotkeysShowUiHotkey": "Show UI:",
+  "SettingsTabHotkeysPauseHotkey": "Pause:",
+  "SettingsTabHotkeysToggleMuteHotkey":  "Mute:"
 }
